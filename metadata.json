@@ -1,0 +1,6 @@
+{
+  "name": "Adamjee Cantonment College Mathematics Club",
+  "description": "Official portal for the Adamjee Cantonment College Mathematics Club (ACCMC) featuring Olympiad training, 8 specialized problem-solving segments, downloadable PDF resources, session plans, and membership enrollment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
